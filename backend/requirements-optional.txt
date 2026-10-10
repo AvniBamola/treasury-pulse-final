@@ -1,0 +1,3 @@
+# Optional only; install if time permits and test it separately
+prophet>=1.1.6
+openai>=1.40
